@@ -1,4 +1,5 @@
-# Facial landmark analysis: monitoring the width of the nostril axis and the state of the mouth (open/closed) during speech and silence
+## ...work in progress...
+## Facial landmark analysis: monitoring the width of the nostril axis and the state of the mouth (open/closed) during speech and silence
 
 This project performs real-time facial landmark analysis on video using MediaPipe.  
 It extracts facial metrics such as mouth activity, nostril dynamics, and eye-normalized measurements, then exports both annotated video and structured CSV data.
